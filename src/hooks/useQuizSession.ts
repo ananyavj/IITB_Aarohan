@@ -194,7 +194,6 @@ export const useQuizSession = (config: QuizConfig) => {
         streak: state.streak,
         currentDifficulty: state.currentDifficulty,
         elapsedTime,
-        elapsedTime,
         answers: state.answers,
         error: state.error,
 
